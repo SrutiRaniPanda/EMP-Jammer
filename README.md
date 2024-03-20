@@ -5,6 +5,9 @@ Emp Jammers work on the principle of creating a powerful electromagnetic pulse.
 The primary goal of an Emp Jammer is to overpower the targeted device’s circuitry, rendering it inoperable or, in some cases, permanently damaging it.
 These devices were initially developed for military use to neutralize enemy electronics, but their availability on the black market has raised significant concerns.
 
+![image](https://github.com/SrutiRaniPanda/EMP-Jammer/assets/149859901/857f29ff-e123-4b16-a0cd-f892aa7bcdf5)
+
+
 **How Does an Emp Jammer Work?**
 
 Emp Jammers work on the principle of creating a powerful electromagnetic pulse. 
